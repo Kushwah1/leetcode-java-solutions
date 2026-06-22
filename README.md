@@ -18,3 +18,19 @@ A curated collection of my LeetCode solutions in Java.
 ## LeetCode Profile
 
 https://leetcode.com/u/Kushwah1/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kushwah1/leetcode-java-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kushwah1/leetcode-java-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kushwah1/leetcode-java-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+<!---LeetCode Topics End-->
